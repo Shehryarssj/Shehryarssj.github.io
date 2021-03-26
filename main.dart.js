@@ -56609,7 +56609,7 @@ r($,"amU","ab_",function(){return P.aaB(0.78)/P.aaB(0.9)})
 s($,"ao2","abz",function(){var p=null,o=t.N
 return new N.J4(P.bm(20,p,!1,t.T),0,new N.Pr(H.b([],t.C)),p,P.v(o,H.R("fe<aj2>")),P.v(o,H.R("aj2")),P.aj4(t.K,o),0,p,!1,!1,p,H.aah(),0,p,H.aah(),N.a8D(),N.a8D())})
 q($,"apv","acj",function(){var p="Flutter",o="API Integration",n=t.cK
-return H.b([L.a3j(H.b([R.cx(14,p),R.cx(14,"SQFLite"),R.cx(14,"Flask"),R.cx(14,"Python"),R.cx(14,o)],n),"6.png",u.R,"Alpha Reader",u.i),L.a3j(H.b([R.cx(14,p),R.cx(14,o)],n),"7.png",u.v,"Clima",u.M),L.a3j(H.b([R.cx(16,p),R.cx(16,"Firebase"),R.cx(16,"Cloud FireStore")],n),"8.png",u.f,"FlashChat",u.g)],H.R("p<t6*>"))})
+return H.b([L.a3j(H.b([R.cx(14,p),R.cx(14,"SQFLite"),R.cx(14,"Flask"),R.cx(14,"Python"),R.cx(14,o)],n),"6.png",u.R,"Alpha Reader",u.i),L.a3j(H.b([R.cx(14,p),R.cx(14,o)],n),"7.png",u.v,"Clima",u.M),L.a3j(H.b([R.cx(14,p),R.cx(14,"Firebase"),R.cx(14,"Cloud FireStore")],n),"8.png",u.f,"FlashChat",u.g)],H.R("p<t6*>"))})
 q($,"apw","aci",function(){var p="Flutter",o="API Integration",n=t.cK
 return H.b([N.a3k(H.b([R.cx(12,p),R.cx(12,"SQFLite"),R.cx(12,"Flask"),R.cx(12,"Python"),R.cx(12,o)],n),"6.png",u.R,"Alpha Reader",u.i),N.a3k(H.b([R.cx(12,p),R.cx(12,o)],n),"7.png",u.v,"Clima",u.M),N.a3k(H.b([R.cx(12,p),R.cx(12,"Firebase"),R.cx(12,"Cloud FireStore")],n),"8.png",u.f,"FlashChat",u.g)],H.R("p<t7*>"))})})();(function nativeSupport(){!function(){var s=function(a){var m={}
 m[a]=1
