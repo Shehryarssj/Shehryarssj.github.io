@@ -52173,13 +52173,13 @@ K:function(a,b){return K.a3o(new X.zZ(null),new T.A_(null))}}
 V.Bs.prototype={
 K:function(a,b){return K.a3o(new S.t4(null),new Q.t5(null))}}
 Z.ym.prototype={
-K:function(a,b){var s=null,r=U.qR("assets/images/11.1.png",b.a1(t.w).f.a.b*0.7,s),q=L.d0("LET'S TALK!",A.c9(s,s,C.u,s,C.f,s,s,s,s,s,s,44,s,C.cQ,s,s,!0,s,4,s,s,s,s,4),C.b1,s),p=F.iS(C.u,2),o=K.iR(10),n=t._
+K:function(a,b){var s=null,r=U.qR("assets/images/11.1.png",b.a1(t.w).f.a.b*0.7,s),q=L.d0("\nLET'S TALK!",A.c9(s,s,C.u,s,C.f,s,s,s,s,s,s,44,s,C.cQ,s,s,!0,s,4,s,s,s,s,4),C.b1,s),p=F.iS(C.u,2),o=K.iR(10),n=t._
 return M.bc(s,T.dO(H.b([new K.kD("CONTACT",100,s),new Q.lA("I would love to work on you next great project",20,s),T.ic(C.K,H.b([r,T.dO(H.b([q,T.d_(H.b([M.bc(C.K,T.d_(H.b([L.a2O(C.ht,C.i,40),new T.cC(new V.aH(5,5,5,5),L.d0("shehryar1.ssj@gmail.com",A.c9(s,s,C.i,s,C.f,s,s,s,s,s,s,30,s,s,s,s,!0,s,s,s,s,s,s,s),s,s),s)],n),C.w,C.U,C.v),C.k,s,s,new S.c_(s,s,p,o,s,s,C.B),s,s,s,s,s,s,s)],n),C.w,C.U,C.v)],n),C.w,C.aa,C.v)],n),C.aP,s),new Q.qQ(50,s),T.dJ(s,50,s)],n),C.w,C.eE,C.v),C.k,s,s,s,s,s,s,s,s,s,s)}}
 Z.yn.prototype={
 K:function(a,b){var s,r,q,p,o,n=null,m=t.w,l=b.a1(m).f
 m=M.bc(C.K,new Q.lA("\nI would love to work on you next great project",16,n),C.k,n,n,n,n,n,n,n,n,n,b.a1(m).f.a.a-20)
 s=M.bc(n,U.qR("assets/images/11.1.png",n,n),C.k,n,n,n,n,n,n,n,n,n,n)
-r=L.d0("LET'S TALK!",A.c9(n,n,C.u,n,C.f,n,n,n,n,n,n,32,n,C.cQ,n,n,!0,n,4,n,n,n,n,3),C.b1,n)
+r=L.d0("\nLET'S TALK!",A.c9(n,n,C.u,n,C.f,n,n,n,n,n,n,32,n,C.cQ,n,n,!0,n,4,n,n,n,n,3),C.b1,n)
 q=F.iS(C.u,2)
 p=K.iR(10)
 o=t._
