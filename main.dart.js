@@ -52192,12 +52192,12 @@ Y.OJ.prototype={
 $1:function(a){return F.a84()},
 $S:329}
 X.zZ.prototype={
-K:function(a,b){var s=null,r=b.a1(t.w).f,q=t._
-return M.bc(s,T.ic(C.K,H.b([B.a2G(P.bo(0,700,0),s,s,new L.eI("assets/images/1.jpg",s,s),new L.eI("assets/images/place_holder.jpg",s,s),s),new T.cC(new V.aH(0,150,0,0),T.dO(H.b([T.d_(H.b([L.d0("I AM\nSHEHRYAR",A.c9(s,s,C.i,s,C.f,s,s,s,s,s,s,80,s,C.ar,s,s,!0,s,2,s,s,s,s,8),C.b0,s),M.bc(s,s,C.k,s,s,new S.c_(s,s,s,s,s,new T.fO(C.bg,C.fs,C.ay,H.b([C.cI,C.i,C.cI],t.r8),s,s),C.B),s,200,new V.aH(30,0,30,0),s,s,s,5),L.d0("An Engineer And Student",A.c9(s,s,C.i,s,C.f,s,s,s,s,s,s,24,s,s,s,s,!0,s,s,s,s,s,s,4),C.b0,s)],q),C.w,C.U,C.v),new T.cC(new V.aH(0,100,0,0),T.d_(H.b([new Q.eP("R\xc9SUM\xc9",u.U,45,150,16,s),T.dJ(s,s,40),new Q.eP("PORTFOLIO",s,45,150,16,s),T.dJ(s,s,40),new Q.eP("CONTACT",s,45,150,16,s)],q),C.w,C.U,C.v),s)],q),C.w,C.U,C.v),s)],q),C.aP,s),C.k,C.l,s,s,s,r.a.b,s,s,s,s,s)}}
+K:function(a,b){var s=null,r="Montserrat",q=b.a1(t.w).f,p=t._
+return M.bc(s,T.ic(C.K,H.b([B.a2G(P.bo(0,700,0),s,s,new L.eI("assets/images/1.jpg",s,s),new L.eI("assets/images/place_holder.jpg",s,s),s),new T.cC(new V.aH(0,150,0,0),T.dO(H.b([T.d_(H.b([L.d0("I AM\nSHEHRYAR",A.c9(s,s,C.i,s,C.f,s,s,s,r,s,s,80,s,C.ar,s,s,!0,s,2,s,s,s,s,8),C.b0,s),M.bc(s,s,C.k,s,s,new S.c_(s,s,s,s,s,new T.fO(C.bg,C.fs,C.ay,H.b([C.cI,C.i,C.cI],t.r8),s,s),C.B),s,200,new V.aH(30,0,30,0),s,s,s,5),L.d0("An Engineer And Student",A.c9(s,s,C.i,s,C.f,s,s,s,r,s,s,24,s,s,s,s,!0,s,s,s,s,s,s,4),C.b0,s)],p),C.w,C.U,C.v),new T.cC(new V.aH(0,100,0,0),T.d_(H.b([new Q.eP("R\xc9SUM\xc9",u.U,45,150,16,s),T.dJ(s,s,40),new Q.eP("PORTFOLIO",s,45,150,16,s),T.dJ(s,s,40),new Q.eP("CONTACT",s,45,150,16,s)],p),C.w,C.U,C.v),s)],p),C.w,C.U,C.v),s)],p),C.aP,s),C.k,C.l,s,s,s,q.a.b,s,s,s,s,s)}}
 T.A_.prototype={
-K:function(a,b){var s=null,r=t.w,q=b.a1(r).f,p=b.a1(r).f.a.a
-r=t._
-return M.bc(s,T.ic(C.bg,H.b([new T.cC(C.mh,B.a2G(P.bo(0,700,0),C.dX,s,new L.eI("assets/images/1.1.jpg",s,s),new L.eI("assets/images/place_holder.jpg",s,s),p),s),T.RQ(100,T.dO(H.b([T.d_(H.b([L.d0("I AM\nSHEHRYAR",A.c9(s,s,C.i,s,C.f,s,s,s,s,s,s,34,s,C.ar,s,s,!0,s,s,s,s,s,s,s),C.b0,s),M.bc(s,s,C.k,s,s,new S.c_(s,s,s,s,s,new T.fO(C.bg,C.fs,C.ay,H.b([C.cI,C.i,C.cI],t.r8),s,s),C.B),s,p*0.2,new V.aH(10,0,10,0),s,s,s,2),L.d0("An Engineer And Student",A.c9(s,s,C.i,s,C.f,s,s,s,s,s,s,14,s,C.ar,s,s,!0,s,s,s,s,s,s,s),C.dz,s)],r),C.w,C.U,C.v),new T.cC(new V.aH(0,100,0,0),T.dO(H.b([new Q.eP("R\xc9SUM\xc9",u.U,35,120,12,s),T.dJ(s,20,s),new Q.eP("PORTFOLIO",s,35,120,12,s),T.dJ(s,20,s),new Q.eP("CONTACT",s,35,120,12,s)],r),C.w,C.U,C.v),s)],r),C.w,C.aa,C.v),s,s,s,s,s,s)],r),C.aP,s),C.k,C.l,s,s,s,q.a.b,s,s,s,s,s)}}
+K:function(a,b){var s=null,r="Montserrat",q=t.w,p=b.a1(q).f,o=b.a1(q).f.a.a
+q=t._
+return M.bc(s,T.ic(C.bg,H.b([new T.cC(C.mh,B.a2G(P.bo(0,700,0),C.dX,s,new L.eI("assets/images/1.1.jpg",s,s),new L.eI("assets/images/place_holder.jpg",s,s),o),s),T.RQ(100,T.dO(H.b([T.d_(H.b([L.d0("I AM\nSHEHRYAR",A.c9(s,s,C.i,s,C.f,s,s,s,r,s,s,34,s,C.ar,s,s,!0,s,s,s,s,s,s,s),C.b0,s),M.bc(s,s,C.k,s,s,new S.c_(s,s,s,s,s,new T.fO(C.bg,C.fs,C.ay,H.b([C.cI,C.i,C.cI],t.r8),s,s),C.B),s,o*0.2,new V.aH(10,0,10,0),s,s,s,2),L.d0("An Engineer And Student",A.c9(s,s,C.i,s,C.f,s,s,s,r,s,s,14,s,C.ar,s,s,!0,s,s,s,s,s,s,s),C.dz,s)],q),C.w,C.U,C.v),new T.cC(new V.aH(0,100,0,0),T.dO(H.b([new Q.eP("R\xc9SUM\xc9",u.U,35,120,12,s),T.dJ(s,20,s),new Q.eP("PORTFOLIO",s,35,120,12,s),T.dJ(s,20,s),new Q.eP("CONTACT",s,35,120,12,s)],q),C.w,C.U,C.v),s)],q),C.w,C.aa,C.v),s,s,s,s,s,s)],q),C.aP,s),C.k,C.l,s,s,s,p.a.b,s,s,s,s,s)}}
 F.Au.prototype={
 K:function(a,b){return new S.rk(new Y.zE(null),!1,null)}}
 S.t4.prototype={
@@ -52244,7 +52244,7 @@ K:function(a,b){var s=null,r=F.iS(C.u,1)
 return new T.cC(new V.aH(0,0,10,10),M.bc(C.K,new T.cC(new V.aH(3,3,3,3),L.d0(this.c,A.c9(s,s,C.u,s,C.f,s,s,s,s,s,s,this.d,s,C.ed,s,s,!0,s,s,s,s,s,s,s),s,s),s),C.k,s,s,new S.c_(s,s,r,s,s,s,C.B),s,s,s,s,s,s,s),s)}}
 Q.eP.prototype={
 K:function(a,b){var s=this,r=null,q=b.a1(t.w).f,p=F.iS(C.h7,3),o=K.iR(10),n=F.iS(C.iu,2),m=K.iR(10)
-return D.qG(r,Z.a2N(C.K,M.bc(r,L.d0(s.c,A.c9(r,r,C.i,r,C.f,r,r,r,r,r,r,s.r,r,r,r,r,!0,r,4,r,r,r,r,r),r,r),C.k,r,r,r,r,r,r,r,r,r,r),new S.c_(C.a_,r,p,o,r,r,C.B),s.e,new S.c_(C.a_,r,n,m,r,r,C.B),s.f),!1,r,r,r,r,r,new Q.Md(s,b,q.a.b),r,r)}}
+return D.qG(r,Z.a2N(C.K,M.bc(r,L.d0(s.c,A.c9(r,r,C.i,r,C.f,r,r,r,"Montserrat",r,r,s.r,r,r,r,r,!0,r,4,r,r,r,r,r),r,r),C.k,r,r,r,r,r,r,r,r,r,r),new S.c_(C.a_,r,p,o,r,r,C.B),s.e,new S.c_(C.a_,r,n,m,r,r,C.B),s.f),!1,r,r,r,r,r,new Q.Md(s,b,q.a.b),r,r)}}
 Q.Md.prototype={
 $0:function(){var s=this.a,r=s.d
 if(r==null){r=Y.a7T(this.b,!1,t.z6)
