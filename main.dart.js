@@ -52174,7 +52174,7 @@ V.Bs.prototype={
 K:function(a,b){return K.a3o(new S.t4(null),new Q.t5(null))}}
 Z.ym.prototype={
 K:function(a,b){var s=null,r="Montserrat",q=U.qR("assets/images/11.1.png",b.a1(t.w).f.a.b*0.7,s),p=L.d0("\nLET'S TALK!",A.c9(s,s,C.u,s,C.f,s,s,s,r,s,s,44,s,C.cQ,s,s,!0,s,4,s,s,s,s,4),C.b1,s),o=F.iS(C.u,2),n=K.iR(10),m=t._
-return M.bc(s,T.dO(H.b([new K.kD("CONTACT",100,s),new Q.lA("I would love to work on you next great project",20,s),T.ic(C.K,H.b([q,T.dO(H.b([p,T.d_(H.b([M.bc(C.K,T.d_(H.b([L.a2O(C.ht,C.i,40),new T.cC(new V.aH(5,5,5,5),L.d0("shehryar1.ssj@gmail.com",A.c9(s,s,C.i,s,C.f,s,s,s,r,s,s,30,s,s,s,s,!0,s,s,s,s,s,s,s),s,s),s)],m),C.w,C.U,C.v),C.k,s,s,new S.c_(s,s,o,n,s,s,C.B),s,s,s,s,s,s,s)],m),C.w,C.U,C.v)],m),C.w,C.aa,C.v)],m),C.aP,s),new Q.qQ(50,s),T.dJ(s,50,s)],m),C.w,C.eE,C.v),C.k,s,s,s,s,s,s,s,s,s,s)}}
+return M.bc(s,T.dO(H.b([new K.kD("CONTACT",80,s),new Q.lA("I would love to work on you next great project",20,s),T.ic(C.K,H.b([q,T.dO(H.b([p,T.d_(H.b([M.bc(C.K,T.d_(H.b([L.a2O(C.ht,C.i,40),new T.cC(new V.aH(5,5,5,5),L.d0("shehryar1.ssj@gmail.com",A.c9(s,s,C.i,s,C.f,s,s,s,r,s,s,30,s,s,s,s,!0,s,s,s,s,s,s,s),s,s),s)],m),C.w,C.U,C.v),C.k,s,s,new S.c_(s,s,o,n,s,s,C.B),s,s,s,s,s,s,s)],m),C.w,C.U,C.v)],m),C.w,C.aa,C.v)],m),C.aP,s),new Q.qQ(50,s),T.dJ(s,50,s)],m),C.w,C.eE,C.v),C.k,s,s,s,s,s,s,s,s,s,s)}}
 Z.yn.prototype={
 K:function(a,b){var s,r,q,p,o,n=null,m="Montserrat",l=t.w,k=b.a1(l).f
 l=M.bc(C.K,new Q.lA("\nI would love to work on you next great project",16,n),C.k,n,n,n,n,n,n,n,n,n,b.a1(l).f.a.a-20)
