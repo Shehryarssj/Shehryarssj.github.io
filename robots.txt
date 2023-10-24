@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://shehryarssj.github.io/sitemap.xml
+Host: https://shehryarssj.github.io
